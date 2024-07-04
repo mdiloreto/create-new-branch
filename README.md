@@ -19,7 +19,7 @@ This guide explains how to create a new branch in a local Git repository and pus
 2. **Create and switch to the new local branch:**
 
   ```sh
-git+ checkout -b $BRANCH_NAME
+git checkout -b $BRANCH_NAME
   ```
 
 3. **Push the new branch to the remote repository and set the upstream branch:**
